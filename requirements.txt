@@ -1,0 +1,9 @@
+streamlit
+pdfplumber
+PyMuPDF
+pytesseract
+Pillow
+requests
+google-genai
+python-dotenv
+pandas
