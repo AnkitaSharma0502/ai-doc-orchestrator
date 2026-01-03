@@ -283,7 +283,7 @@ def main():
                         st.subheader("Generated Email Body")
                         st.code(res.get("email_body", ""))
                         st.subheader("Email Automation Status")
-                        st.info(res.get("automation_status", ""))
+                        st.info(res.get("email_automation_status", ""))
 
 
 if __name__ == "__main__":
