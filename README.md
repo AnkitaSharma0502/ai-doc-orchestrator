@@ -2,7 +2,7 @@
 
 
 # AI-Powered Document Orchestrator
-An automated document processing system built using Streamlit, Python, Gemini AI, and n8n to extract text from documents, identify key information, assess risk level, and trigger conditional email alerts.
+Document processing system using Python, Gemini AI, and n8n for intelligent text extraction and risk-based email alerting
 
 🔗 Link:
 https://ai-doc-orchestrator-p53cg75jnaovj4kdbf3tpv.streamlit.app/
@@ -14,10 +14,10 @@ Manually reading each document to identify key details and check for sensitive o
 
 The goal of this project is to:
 
-Automatically read and understand documents
-Extract important information in structured form
-Identify risk level
-Trigger email alerts when required
+Extract structured data from documents using Gemini AI
+Assess risk levels with confidence scores
+Integrate with n8n to send email alerts for high-risk documents
+Provide a user-friendly interface for document analysis
 
 ## Approach:
 
@@ -110,6 +110,7 @@ This allows conditional automation without manual intervention.
 <img width="1676" height="706" alt="image" src="https://github.com/user-attachments/assets/3ebff7f7-519c-479f-af0d-abb4187b88f0" />
 
 <img width="1875" height="718" alt="image" src="https://github.com/user-attachments/assets/63ed8004-07c0-4004-8b5a-8b2e7df0c3e3" />
+
 
 
 
